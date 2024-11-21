@@ -32,11 +32,6 @@ nav {
   border-radius: 15px;
 }
 
-nav .logo a {
-  font-size: 1.5rem;
-  font-weight: 600;
-
-
 nav ul {
   list-style-type: none; /* Menghilangkan bullet pada list */
   margin: 0; /* Menghilangkan margin */
