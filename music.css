@@ -115,7 +115,7 @@ h3 {
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 90%; /* Lebar responsif */
+    width: 100%; /* Lebar responsif */
 }
 
 .player-controls {
