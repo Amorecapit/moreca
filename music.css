@@ -100,7 +100,7 @@ h3 {
     cursor: pointer;
     margin: 40px 0; /* Margin atas dan bawah */
     height: 6px;
-    width: 90%; /* Lebar responsif */
+    width: 100%; /* Lebar responsif */
 }
 
 .progress {
